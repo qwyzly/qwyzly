@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="./assets/codex-profile-card.png" alt="qwyzly profile card" width="620" />
-</p>
-
-<p align="center">
-  <img src="./assets/eyes.jpg" alt="dark eyes" width="330" />
-  <img src="./assets/hand.gif" alt="reaching hand animation" width="330" />
+  <img src="./assets/eyes.jpg" alt="dark eyes" width="360" height="140" /><img src="./assets/hand.gif" alt="reaching hand animation" width="360" height="140" />
 </p>
 
 <h1 align="center">qwyzly</h1>
 
 <p align="center">
   <code>dark web developer</code> · <code>dalagame.qz</code> · <code>silent build mode</code>
+</p>
+
+<p align="center">
+  <img src="./assets/codex-profile-card.png" alt="qwyzly profile card" width="460" />
 </p>
 
 <p align="center">
