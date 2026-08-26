@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/eyes.jpg" alt="dark eyes" width="360" height="140" /><img src="./assets/hand.gif" alt="reaching hand animation" width="360" height="140" />
+  <img src="./assets/eyes.jpg" alt="dark eyes" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/hand.gif" alt="reaching hand animation" width="100%" />
 </p>
 
 <h1 align="center">qwyzly</h1>
