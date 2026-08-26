@@ -50,5 +50,5 @@ style: black / quiet / mysterious
 ---
 
 <p align="center">
-  <sub>the screen is black, but the project is alive</sub>
+  <sub>the screen is black, but the project is alive.</sub>
 </p>
