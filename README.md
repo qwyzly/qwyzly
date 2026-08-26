@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="./assets/codex-profile-card.png" alt="qwyzly profile card" width="100%" />
+  <img src="./assets/codex-profile-card.png" alt="qwyzly profile card" width="620" />
+</p>
+
+<p align="center">
+  <img src="./assets/eyes.jpg" alt="dark eyes" width="330" />
+  <img src="./assets/hand.gif" alt="reaching hand animation" width="330" />
 </p>
 
 <h1 align="center">qwyzly</h1>
